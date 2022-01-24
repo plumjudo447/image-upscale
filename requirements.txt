@@ -1,0 +1,7 @@
+basicsr
+facexlib
+torch
+torchvision
+opencv-python
+Pillow
+tqdm
